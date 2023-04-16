@@ -1,0 +1,6 @@
+1. Launch Websocket Server:
+   `deno run --allow-net --allow-write --watch --unstable server.ts`
+
+2. Launch webcam web client with LiveServer on VScode
+
+3. Then Launch Godot client
